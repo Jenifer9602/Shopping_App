@@ -1,3 +1,1 @@
-# Shopping_App
-Hi welcome to Github
-This is firstversion changes
+This is modified content using second version of repository
